@@ -1,0 +1,11 @@
+# 기대수명 예측하기 실습 라이브러리 목록
+# 설치 방법 (가상환경을 켠 상태에서):  pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+nbformat
+ipykernel
+# 모범답안과 같은 결과를 얻기 위해 버전 고정 (1.9 이상은 선형회귀 결과가 달라짐)
+scikit-learn==1.8.0
